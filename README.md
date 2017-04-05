@@ -9,16 +9,16 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 ### Útgáfustýring (5%):  Verkstjórn og greinargerð um vinnuferlið.
 
 * Gerið grein fyrir eftirtöldum atriðum:
-  ** Um hvað er vefurinn?   
-  ** Hver er markhópurinn og markmið með gerð vefsins.
+  * Um hvað er vefurinn?   
+  * Hver er markhópurinn og markmið með gerð vefsins.
 * Efnisöflun
-  **  Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  Það má nota texta og myndir af öðrum vefsíðum og gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá.
+  *  Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  Það má nota texta og myndir af öðrum vefsíðum og gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá.
 * Tæknileg útfærsla
-  **  Útskýrið eigin lausnir ss virkni í forritun og kvikun. 
+  *  Útskýrið eigin lausnir ss virkni í forritun og kvikun. 
 * Prófanir - https://validator.w3.org/
-  **  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev)
+  *  Er kóðinn í lagi? Er vefurinn villulaus?  (sjá Inspector console, firebug, chrome dev)
 * Viðhald 
-  **  Hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
+  *  Hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
 
 
 ### Afurð 10%:  Tæknilegar lausnir
@@ -30,23 +30,23 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * SCSS/CSS kóðun í stílsíðum – aðeins ein CSS stílsíða tengd vefsíðu.
 * Kvikun – Animation  (val - animation, transitions, transform)
 * Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (form). 
-  ** Upplýsingar sem skráðar eru í formið eru villuprófaðar (HTML5 validation).
+  * Upplýsingar sem skráðar eru í formið eru villuprófaðar (HTML5 validation).
 
 ### Námsmat  20%
 
 * 5% GIT / GitHub  (einstaklingsverkefni)
 
 * 5% Útgáfustýring - Undirbúningsvinna
-  **  Greinargerð (sjá lýsingu hér að ofan)
-  **  Verkáætlun (GitHub, project - milestones)
-  **  Efnisöflun og skipulag (layout).  
-  ** Heimildaskrá
+  *  Greinargerð (sjá lýsingu hér að ofan)
+  *  Verkáætlun (GitHub, project - milestones)
+  *  Efnisöflun og skipulag (layout).  
+  * Heimildaskrá
 * 10% 	Afurð - Tæknilegar lausnir
-  ** Útlit (layout) vel útfært með viðmiðum (breakpoints) 
-  ** Sveigjanlegar myndir (responsive)
-  ** Samræmi í letur og litanotkun. 
-  ** Kvikun 
-  ** Samskiptaform með HTML5 validation
+  * Útlit (layout) vel útfært með viðmiðum (breakpoints) 
+  * Sveigjanlegar myndir (responsive)
+  * Samræmi í letur og litanotkun. 
+  * Kvikun 
+  * Samskiptaform með HTML5 validation
 	 
  	
 ## Verkefnaskil:  	
@@ -69,19 +69,19 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 * INNA/VSH2TO/Efni 
 * Snjallvefsíður SPA: 
-  ** https://kodun.is/     
-  ** https://onepagelove.com/   
+  * https://kodun.is/     
+  * https://onepagelove.com/   
 * Parallax Scrolling: 
-  ** http://www.w3schools.com/howto/howto_css_parallax.asp
-  ** http://www.awwwards.com/websites/parallax/
+  * http://www.w3schools.com/howto/howto_css_parallax.asp
+  * http://www.awwwards.com/websites/parallax/
 * Animation
-  ** https://www.mrpapercut.com/detail/34_keyframe_animations_in_sass
-  ** http://www.hongkiat.com/blog/mixin-library-for-sass/
-  ** http://geoffgraham.me/tag/sass/ -> http://geoffgraham.me/animate-scss/
-  ** https://github.com/tgdev/animate-sass
-  ** https://github.com/joshbroton/sassquatch
-  ** http://daneden.github.io/animate.css/
+  * https://www.mrpapercut.com/detail/34_keyframe_animations_in_sass
+  * http://www.hongkiat.com/blog/mixin-library-for-sass/
+  * http://geoffgraham.me/tag/sass/ -> http://geoffgraham.me/animate-scss/
+  * https://github.com/tgdev/animate-sass
+  * https://github.com/joshbroton/sassquatch
+  * http://daneden.github.io/animate.css/
 * Form validation
-  ** http://www.the-art-of-web.com/html/html5-form-validation/
-  ** http://www.w3schools.com/html/html_form_attributes.asp
-  ** https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation
+  * http://www.the-art-of-web.com/html/html5-form-validation/
+  * http://www.w3schools.com/html/html_form_attributes.asp
+  * https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Forms/Data_form_validation
