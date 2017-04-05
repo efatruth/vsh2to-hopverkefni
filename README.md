@@ -20,6 +20,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Viðhald 
   **  Hvað má gera betur og hver geta verið næstu skref með vefinn (ókláruð virkni, endurbætur o.s.frv.).
 
+
 ### Afurð 10%:  Tæknilegar lausnir
 
 * Viðmið (breakpoints) fyrir mismunandi skjástærðir, „mobile up“ - 37.5em, 48em, 60em, 80em.
@@ -31,7 +32,6 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 * Notandi getur skráð sig á fyrirlestra, atburði eða tónleika sem eru í boði (form). 
   ** Upplýsingar sem skráðar eru í formið eru villuprófaðar (HTML5 validation).
 
-
 ### Námsmat  20%
 
 * 5% GIT / GitHub  (einstaklingsverkefni)
@@ -41,7 +41,6 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   **  Verkáætlun (GitHub, project - milestones)
   **  Efnisöflun og skipulag (layout).  
   ** Heimildaskrá
-
 * 10% 	Afurð - Tæknilegar lausnir
   ** Útlit (layout) vel útfært með viðmiðum (breakpoints) 
   ** Sveigjanlegar myndir (responsive)
@@ -61,9 +60,9 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
   5. Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða
   6. Heimildaskrá
 
-####Tenglum (link) á vef og geymslu er skilað í INNU.  
+#### Tenglum (link) á vef og geymslu er skilað í INNU.  
 
-####Athugið að hópverkefnið er lykilmatsþáttur. 
+#### Athugið að hópverkefnið er lykilmatsþáttur. 
 
  
 ## Bjargir 
