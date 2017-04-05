@@ -22,7 +22,7 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 ## Afurð 10%:  Tæknilegar lausnir
 
-*	Viðmið (breakpoints) fyrir mismunandi skjástærðir, „mobile up“ - 37.5em, 48em, 60em, 80em.
+* Viðmið (breakpoints) fyrir mismunandi skjástærðir, „mobile up“ - 37.5em, 48em, 60em, 80em.
 *	Myndir í vefsíðum aðlagast mismunandi skjástærðum (notið &lt;picture&gt; tagið).
 *	Letur og litanotkun er í samræmi við efni/þema vefsins.
 *	Almenn lýsing á viðburði og sundurliðuð dagskrá í töflu.
@@ -34,9 +34,9 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 ## Námsmat  20%
 
-*	5%	GIT / GitHub  (einstaklingsverkefni)
+*	5% GIT / GitHub  (einstaklingsverkefni)
 
-*	5%	Útgáfustýring - Undirbúningsvinna
+*	5% Útgáfustýring - Undirbúningsvinna
 	**  Greinargerð (sjá lýsingu hér að ofan)
 	**  Verkáætlun (GitHub, project - milestones)
 	**  Efnisöflun og skipulag (layout).  
@@ -54,16 +54,16 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 * Afurð/vef er skilað á http://tsuts.tskoli.is/2t/þín-KT/lokaverkefni
 * Öllum vinnugögnum  er skilað í GitHub geymslu (repository)
-1.	Greinargerð um verkefnið
-2.	Hugmyndavinnu (skissur ofl)
-3.	Textavinnsla
-4.	Skipulag (layout) 
-5.	Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða
-6.	Heimildaskrá
+	1.	Greinargerð um verkefnið
+	2.	Hugmyndavinnu (skissur ofl)
+	3.	Textavinnsla
+	4.	Skipulag (layout) 
+	5.	Vefurinn með öllum kóða ss. SCSS/CSS, js og php kóða
+	6.	Heimildaskrá
 
-####Tenglum (link) á vef og geymslu er skilað í INNU.  
+#### Tenglum (link) á vef og geymslu er skilað í INNU.  
 
-####Athugið að hópverkefnið er lykilmatsþáttur. 
+#### Athugið að hópverkefnið er lykilmatsþáttur. 
 
  
 ## Bjargir 
