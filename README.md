@@ -8,11 +8,11 @@ Verkefnið felst í að hanna vefsíðu(r) um viðburð ss tónleika, keppni, li
 
 ## Útgáfustýring (5%):  Verkstjórn og greinargerð um vinnuferlið.
 
-*	Gerið grein fyrir eftirtöldum atriðum:
-	**	Um hvað er vefurinn?   
-	**	Hver er markhópurinn og markmið með gerð vefsins.
-*	Efnisöflun
-	**  Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  Það má nota texta og myndir af öðrum vefsíðum og gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá.
+* Gerið grein fyrir eftirtöldum atriðum:
+  ** Um hvað er vefurinn?   
+  ** Hver er markhópurinn og markmið með gerð vefsins.
+* Efnisöflun
+  ** Skoðið hvað aðrir hafa gert, safnið saman fyrirmyndum ss tenglum á áhugaverðar vefsíður.  Það má nota texta og myndir af öðrum vefsíðum og gerið grein fyrir hvaðan efnið er tilkomið í heimildaskrá.
 *	Tæknileg útfærsla
 	**  Útskýrið eigin lausnir ss virkni í forritun og kvikun. 
 *	Prófanir - https://validator.w3.org/
